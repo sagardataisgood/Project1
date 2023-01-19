@@ -1,0 +1,50 @@
+Category,Country,Customer Name,Discount,Order Date,Order ID,Product Name,Profit,Quantity,Region,Returned,Sales,Segment,Ship Date,Ship Mode,State,Sub-Category
+Office Supplies,India,Darren Powers,0.2,03-01-2013,CA-2011-103800,"Message Book, Wirebound, Four 5 1/2"" X 4"" Forms/Pg., 200 Dupl. Sets/Book",5.5512,2,West,,16.448,Consumer,07-01-2013,Standard Class,Maharashtra,Paper
+Office Supplies,India,Phillina Ober,0.8,04-01-2013,CA-2011-112326,GBC Standard Plastic Binding Systems Combs,-5.487,2,South,,3.54,Home Office,08-01-2013,Standard Class,Karnataka,Binders
+Office Supplies,India,Phillina Ober,0.2,04-01-2013,CA-2011-112326,Avery 508,4.2717,3,South,,11.784,Home Office,08-01-2013,Standard Class,Karnataka,Labels
+Office Supplies,India,Phillina Ober,0.2,04-01-2013,CA-2011-112326,SAFCO Boltless Steel Shelving,-64.7748,3,South,,272.736,Home Office,08-01-2013,Standard Class,Karnataka,Storage
+Office Supplies,India,Mick Brown,0.2,05-01-2013,CA-2011-141817,"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",4.884,3,North,,19.536,Consumer,12-01-2013,Standard Class,Punjab,Art
+Office Supplies,India,Jack O'Briant,0,06-01-2013,CA-2011-106054,"Dixon Prang Watercolor Pencils, 10-Color Set with Brush",5.2398,3,South,,12.78,Corporate,07-01-2013,First Class,Karnataka,Art
+Office Supplies,India,Lycoris Saunders,0,06-01-2013,CA-2011-130813,Xerox 225,9.3312,3,West,,19.44,Consumer,08-01-2013,Second Class,Maharashtra,Paper
+Furniture,India,Maria Etezadi,0,06-01-2013,CA-2011-167199,Global Deluxe High-Back Manager's Chair,746.4078,9,East,,2573.82,Home Office,10-01-2013,Standard Class,West Bengal,Chairs
+Office Supplies,India,Maria Etezadi,0,06-01-2013,CA-2011-167199,Rogers Handheld Barrel Pencil Sharpener,1.4796,2,East,,5.48,Home Office,10-01-2013,Standard Class,West Bengal,Art
+Office Supplies,India,Maria Etezadi,0,06-01-2013,CA-2011-167199,Ibico Hi-Tech Manual Binding System,274.491,2,East,,609.98,Home Office,10-01-2013,Standard Class,West Bengal,Binders
+Office Supplies,India,Maria Etezadi,0,06-01-2013,CA-2011-167199,"Alliance Super-Size Bands, Assorted Sizes",0.3112,4,East,,31.12,Home Office,10-01-2013,Standard Class,West Bengal,Fasteners
+Office Supplies,India,Maria Etezadi,0,06-01-2013,CA-2011-167199,Southworth 25% Cotton Granite Paper & Envelopes,3.0084,1,East,,6.54,Home Office,10-01-2013,Standard Class,West Bengal,Paper
+Technology,India,Maria Etezadi,0,06-01-2013,CA-2011-167199,GE 30524EE4,113.6742,2,East,,391.98,Home Office,10-01-2013,Standard Class,West Bengal,Phones
+Technology,India,Maria Etezadi,0,06-01-2013,CA-2011-167199,Wireless Extenders zBoost YX545 SOHO Signal Booster,204.1092,4,East,,755.96,Home Office,10-01-2013,Standard Class,West Bengal,Phones
+Furniture,India,Vivek Sundaresam,0.6,07-01-2013,CA-2011-105417,"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",-53.7096,3,West,,76.728,Consumer,12-01-2013,Standard Class,Maharashtra,Furnishings
+Office Supplies,India,Vivek Sundaresam,0.8,07-01-2013,CA-2011-105417,"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",-18.2525,7,West,,10.43,Consumer,12-01-2013,Standard Class,Maharashtra,Binders
+Office Supplies,India,Melanie Seite,0.2,09-01-2013,CA-2011-135405,Newell 312,1.168,2,West,,9.344,Consumer,13-01-2013,Standard Class,Maharashtra,Art
+Technology,India,Melanie Seite,0.2,09-01-2013,CA-2011-135405,Memorex Micro Travel Drive 8 GB,9.75,3,West,,31.2,Consumer,13-01-2013,Standard Class,Maharashtra,Accessories
+Furniture,India,Anthony Jacobs,0,10-01-2013,CA-2011-149020,"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",21.2954,1,West,,51.94,Corporate,15-01-2013,Standard Class,Maharashtra,Furnishings
+Office Supplies,India,Anthony Jacobs,0,10-01-2013,CA-2011-149020,Avery 482,1.3583,1,West,,2.89,Corporate,15-01-2013,Standard Class,Maharashtra,Labels
+Furniture,India,Seth Vernon,0,11-01-2013,CA-2011-130092,"DAX Value U-Channel Document Frames, Easel Back",3.0814,2,South,,9.94,Consumer,14-01-2013,First Class,Karnataka,Furnishings
+Office Supplies,India,Chris Selesnick,0,13-01-2013,CA-2011-162775,3-ring staple pack,2.7072,3,East,,5.64,Corporate,15-01-2013,Second Class,West Bengal,Binders
+Office Supplies,India,Chris Selesnick,0,13-01-2013,CA-2011-162775,Brown Kraft Recycled Envelopes,25.47,3,East,,50.94,Corporate,15-01-2013,Second Class,West Bengal,Envelopes
+Office Supplies,India,Chris Selesnick,0,13-01-2013,CA-2011-162775,Staple envelope,5.3392,2,East,,11.36,Corporate,15-01-2013,Second Class,West Bengal,Envelopes
+Office Supplies,India,Chris Selesnick,0,13-01-2013,CA-2011-162775,Fellowes Stor/Drawer Steel Plus Storage Drawers,34.3548,6,East,,572.58,Corporate,15-01-2013,Second Class,West Bengal,Storage
+Technology,India,Chris Selesnick,0,13-01-2013,CA-2011-162775,Plantronics S12 Corded Telephone Headset System,258.696,6,East,,646.74,Corporate,15-01-2013,Second Class,West Bengal,Accessories
+Furniture,India,Natalie DeCherney,0,13-01-2013,CA-2011-109232,Global Highback Leather Tilter in Burgundy,87.3504,6,North,,545.94,Consumer,16-01-2013,Second Class,Punjab,Chairs
+Furniture,India,Brian Dahlen,0.15,13-01-2013,CA-2011-157147,"O'Sullivan Elevations Bookcase, Cherry Finish",3.9294,3,West,,333.999,Consumer,18-01-2013,Standard Class,Maharashtra,Bookcases
+Office Supplies,India,Michael Moore,0.7,13-01-2013,CA-2011-118192,Avery Metallic Poly Binders,-2.5212,2,North,,3.438,Consumer,18-01-2013,Standard Class,Punjab,Binders
+Office Supplies,India,Michael Moore,0.2,13-01-2013,CA-2011-118192,Xerox 1923,13.0928,7,North,,37.408,Consumer,18-01-2013,Standard Class,Punjab,Paper
+Office Supplies,India,Brian Dahlen,0,13-01-2013,CA-2011-157147,4009 Highlighters by Sanford,6.567,5,West,,19.9,Consumer,18-01-2013,Standard Class,Maharashtra,Art
+Office Supplies,India,Brian Dahlen,0,13-01-2013,CA-2011-157147,Tennsco 6- and 18-Compartment Lockers,238.653,5,West,,1325.85,Consumer,18-01-2013,Standard Class,Maharashtra,Storage
+Furniture,India,Brendan Sweed,0.5,14-01-2013,CA-2011-149524,Sauder Cornerstone Collection Library,-53.2856,4,North,,61.96,Corporate,15-01-2013,First Class,Punjab,Bookcases
+Technology,India,Erica Hackney,0,15-01-2013,CA-2011-103366,Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,65.978,5,South,,149.95,Consumer,17-01-2013,First Class,Karnataka,Accessories
+Furniture,India,Delfina Latchford,0.2,16-01-2013,CA-2011-115791,DAX Black Cherry Wood-Tone Poster Frame,28.5984,6,North,,127.104,Consumer,18-01-2013,Second Class,Punjab,Furnishings
+Office Supplies,India,Delfina Latchford,0.7,16-01-2013,CA-2011-115791,GBC Linen Binding Covers,-13.6312,2,North,,18.588,Consumer,18-01-2013,Second Class,Punjab,Binders
+Office Supplies,India,Delfina Latchford,0.2,16-01-2013,CA-2011-115791,Round Specialty Laser Printer Labels,10.1493,3,North,,30.072,Consumer,18-01-2013,Second Class,Punjab,Labels
+Technology,India,Delfina Latchford,0.4,16-01-2013,CA-2011-115791,AT&T 841000 Phone,-31.05,3,North,,124.2,Consumer,18-01-2013,Second Class,Punjab,Phones
+Office Supplies,India,David Wiener,0.2,18-01-2013,CA-2011-123477,Fellowes Mighty 8 Compact Surge Protector,6.4864,4,North,,64.864,Corporate,21-01-2013,Second Class,Punjab,Appliances
+Furniture,India,Toby Swindell,0.7,19-01-2013,CA-2011-146591,O'Sullivan 4-Shelf Bookcase in Odessa Pine,-320.597,5,West,,181.47,Consumer,20-01-2013,First Class,Maharashtra,Bookcases
+Office Supplies,India,Toby Swindell,0.7,19-01-2013,CA-2011-146591,"GBC Standard Recycled Report Covers, Clear Plastic Sheets",-23.716,10,West,,32.34,Consumer,20-01-2013,First Class,Maharashtra,Binders
+Office Supplies,India,Toby Swindell,0.2,19-01-2013,CA-2011-146591,"Tyvek  Top-Opening Peel & Seel Envelopes, Plain White",36.693,5,West,,108.72,Consumer,20-01-2013,First Class,Maharashtra,Envelopes
+Office Supplies,India,Toby Swindell,0.2,19-01-2013,CA-2011-146591,"TOPS Carbonless Receipt Book, Four 2-3/4 x 7-1/4 Money Receipts per Page",19.6224,4,West,,56.064,Consumer,20-01-2013,First Class,Maharashtra,Paper
+Furniture,India,Mark Van Huff,0,20-01-2013,CA-2011-148614,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",5.79,2,West,Yes,19.3,Consumer,25-01-2013,Standard Class,Maharashtra,Furnishings
+Office Supplies,India,Mark Van Huff,0,20-01-2013,CA-2011-148614,"Wirebound Service Call Books, 5 1/2"" x 4""",9.2928,2,West,Yes,19.36,Consumer,25-01-2013,Standard Class,Maharashtra,Paper
+Furniture,India,Xylona Preis,0,20-01-2013,CA-2011-167927,Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,30.0234,3,East,,272.94,Consumer,26-01-2013,Standard Class,West Bengal,Furnishings
+Furniture,India,Xylona Preis,0,20-01-2013,CA-2011-167927,Ultra Door Push Plate,4.8609,3,East,,14.73,Consumer,26-01-2013,Standard Class,West Bengal,Furnishings
+Furniture,India,Hunter Lopez,0,20-01-2013,US-2011-147627,Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,224.2674,3,West,,1067.94,Consumer,26-01-2013,Standard Class,Maharashtra,Chairs
+Furniture,India,Hunter Lopez,0,20-01-2013,US-2011-147627,"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",11.58,4,West,,38.6,Consumer,26-01-2013,Standard Class,Maharashtra,Furnishings
